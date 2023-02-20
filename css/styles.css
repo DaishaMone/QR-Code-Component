@@ -1,0 +1,7 @@
+.blue-background {
+    color: hsl(220, 15%, 55%);
+}
+.white-box {
+    color: hsl(0, 0%, 100%);
+    size: 100px 50px;
+}
